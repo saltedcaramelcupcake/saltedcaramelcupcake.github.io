@@ -1,10 +1,10 @@
 # Site Settings
 lang: ko
-title: Tech blog - DGB Datasystem
-tagline: DGB Datasystem
+title: Tech blog - DGB Data System
+tagline: DGB Data System
 email: choijam1229@gmail.com
 description: >
-  Techblog for DGB Datasystem Cloud Business Team
+  Techblog for DGB Data System Cloud Business Team
 baseurl: ""
 url: "https://www.csrhymes.com"
 permalink: pretty
