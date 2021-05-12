@@ -1,4 +1,4 @@
-# Techblog for DGB Datasystem
+# Techblog for DGB Data System
 
 DGB데이터시스템 클라우드 사업팀 기슬 블로그 입니다.  
 임시 주소 : [https://saltedcaramelcupcake.github.io](https://saltedcaramelcupcake.github.io)
