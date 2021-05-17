@@ -42,3 +42,17 @@ p {
 .card-footer-item{
   font-size: 11.4px;
 }
+
+
+
+/*index post-content 요약*/
+.card .card-content .content .card-content-summary{
+  display: inline-block;
+  white-space: nowrap; 
+  overflow: hidden;
+  text-overflow: ellipsis;
+
+  white-space: normal;
+  height: 5.2em;
+}
+

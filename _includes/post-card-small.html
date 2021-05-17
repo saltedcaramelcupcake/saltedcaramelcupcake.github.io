@@ -16,7 +16,9 @@
             {% if post.summary %}
                 {{ post.summary | markdownify }}
             {% else %}
+            <div class="card-content-summary">
                 <p>{{ post.excerpt }}</p>
+            </div>
             {% endif %}
         </div>
     </div>
